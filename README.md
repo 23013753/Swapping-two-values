@@ -27,7 +27,7 @@ a=b
 b=temp
 print("Swapped values are:",a,b)
 ``````
-## OUTPUT
+## OUTPUT:
 ![Alt text](image-1.png)
 
 
